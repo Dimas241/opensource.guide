@@ -53,7 +53,7 @@
     "retext-words": "bkeepers/retext-words",
     "to-vfile": "^2.1.0",
     "unified": "^6.1.0",
-    "vfile-reporter": "^4.0.0",
+    "vfile-reporter": "^6.0.0",
     "vfile-statistics": "^1.0.0"
   }
 }
